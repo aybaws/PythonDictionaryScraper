@@ -39,5 +39,6 @@ for i in range(count):
 filename = input('Save as: ')
 
 d.save('C:/Users/' + os.getenv('username') + '/Desktop/' + filename + '.docx')
+# modify to change directory that it saves to
 
 
