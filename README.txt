@@ -12,3 +12,6 @@ To fix this:
 3. Right click and inspect 
 4. You should see inside the <span class_ = "some_random_string">
 5. Copy the "some_random_string" and replace it with inside the class_ = "some_random_string" on the 11th line of the code 
+
+
+excuse me if the code is messy, as this is my first project and I am a beginner in python
