@@ -4,7 +4,8 @@ this Python script enables the user to find meaning of words from www.dictionary
 
 Common issue with this script is that once every one or two days, it cannot scrape the meaning of the word.
 
-This is caused by the website's continually changing class attribute. 
+This is caused by the website's continually changing class attribute inside the <span> tag. 
+
 To fix this:
 1. Go to dictionary.com and type in a word
 2. Highlight the first meaning
