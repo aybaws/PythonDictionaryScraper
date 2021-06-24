@@ -9,5 +9,5 @@ To fix this:
 1. Go to dictionary.com and type in a word
 2. Highlight the first meaning
 3. Right click and inspect 
-4. You should see inside the <span class_ = "_.... bla bla bla_">
-5. Copy the "_.... bla bla bla_" and replace the string on the 11th line of the code with the new class.
+4. You should see inside the <span class_ = "some_random_string">
+5. Copy the "some_random_string" and replace it with inside the class_ = "some_random_string" on the 11th line of the code 
